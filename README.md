@@ -18,4 +18,10 @@ Install the required packages using:
 pip install pydub openai
 ```
 
-
+## Usage
+1. Store your OpenAI API key in a file named **api_key.txt** in the same directory as the script.
+2. Set the **directory** variable in the **main()** function to point to the folder containing your **.mp3** files.
+3. Run the script:
+```
+python [script_name].py
+```
