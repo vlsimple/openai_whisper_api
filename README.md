@@ -25,3 +25,7 @@ pip install pydub openai
 ```
 python [script_name].py
 ```
+After execution, transcriptions will be saved in the same directory with the respective audio filename followed by **.txt**.
+
+## License
+This project is licensed under the MIT License.
